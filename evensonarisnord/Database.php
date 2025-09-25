@@ -7,6 +7,7 @@ use \PDOException;
 
 /**
  * Gère une connexion Singleton à la base de données via PDO.
+ * @author Evenson Arisnord
  */
 class Database
 {
