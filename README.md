@@ -90,6 +90,7 @@ try {
 }
 ```
 
+[![PHP Composer](https://github.com/evensonarisnord93/evensonarisnord-softlands/actions/workflows/php.yml/badge.svg)](https://github.com/evensonarisnord93/evensonarisnord-softlands/actions/workflows/php.yml)
 -----
 
 ## 🤝 Contribution
