@@ -1,9 +1,3 @@
-Absolument \! Voici un modèle de fichier **`README.md`** professionnel et structuré, basé sur votre package PHP de connexion à la base de données.
-
-Vous n'avez qu'à remplacer les informations génériques (`MonEntreprise\MaPhplib`, `votre-vendeur/votre-package`, etc.) par les vôtres.
-
------
-
 # 🚀 Evensonarisnord/Softlands (ex: Developpement de logiciels sous mesure)
 
 Un package PHP simple et léger fournissant un ensemble de modules reutilisables dans vos applications.
